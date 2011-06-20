@@ -1,7 +1,7 @@
 source :rubygems
 
 group :test do
-  gem 'rspec'
+  gem 'rspec', '~> 1.3.2'
   gem 'cucumber'
   gem 'rake'
 end
